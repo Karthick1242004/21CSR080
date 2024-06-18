@@ -21,7 +21,7 @@ This project showcases an ecommerce product display using Material-UI for stylin
 
 ## Screenshot
 
-![Ecommerce Product Display](./OUTPUT.PNG)
+![Ecommerce Product Display](OUTPUT.PNG)
 
 ## Installation
 
